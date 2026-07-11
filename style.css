@@ -89,3 +89,13 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+main div button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
