@@ -148,13 +148,14 @@ input {
     margin: 30px auto;
     padding: 20px;
 }
-
 .top-bar {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
+    gap: 15px;
     margin-bottom: 25px;
 }
+
 
 .top-bar h2 {
     color: #1565c0;
