@@ -230,3 +230,7 @@ input {
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0,0,0,.12);
 }
+.service-link {
+    text-decoration: none;
+    color: inherit;
+}
